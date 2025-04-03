@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-OxefoodAnaApplication<oxefood-ana>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.ifpe.oxefood.OxefoodAnaApplication",
+            "projectName": "oxefood-ana",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
